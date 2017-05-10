@@ -21,6 +21,16 @@ h1 {
 	vertical-align: middle;
 }
 
+.name {
+	font-size: 48px;
+	font-family: Lobster;
+	letter-spacing: 2px;
+}
+
+.job {
+	font-size: 18px;
+}
+
 .flex {
 	display: flex;
 	flex-wrap: wrap;
